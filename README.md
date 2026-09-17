@@ -1,5 +1,7 @@
 # 鸟类生态图像分析与连续性状回归
 
+[![Verify reproducibility](https://github.com/dissolve-listen/bird-ecology-image-analysis/actions/workflows/verify.yml/badge.svg)](https://github.com/dissolve-listen/bird-ecology-image-analysis/actions/workflows/verify.yml)
+
 数字图像处理综合实践课程项目。使用 OpenCV 基础算子分割前景，提取 68 维视觉特征，分别训练 ExtraTrees 鸟种分类器和七输出连续性状回归器。完整使用 CUB-200-2011 的 11,788 张图像、200 类及官方 5,994 / 5,794 训练测试划分，随机种子为 2026。
 
 **回归器直接读取图像特征。预测鸟种和 AVONET 查表结果不会输入回归器。** 回归目标为体重、跗蹠长度、翅长、尾长、喙长、喙宽、喙深。监督标签是 AVONET 物种平均值，预测不能解释为照片中个体的实测值。
@@ -8,7 +10,14 @@
 
 验证环境为 **Windows 64 位、Python 3.13.9**。请使用 Python 3.13；脚本会拒绝 3.14 等未验证的主次版本。`requirements.lock` 固定了直接和传递依赖，安装到本项目 `.venv`。不依赖作者的 Anaconda 路径或其他项目文件夹。
 
-在克隆后的项目根目录打开 PowerShell：
+首次获取项目，在 PowerShell 中执行：
+
+```powershell
+git clone https://github.com/dissolve-listen/bird-ecology-image-analysis.git
+cd bird-ecology-image-analysis
+```
+
+然后在项目根目录执行：
 
 ```powershell
 python --version
@@ -73,7 +82,7 @@ python -X utf8 scripts/bootstrap.py
 | 七性状官方测试平均 R² | 0.1651881366 |
 | 训练集内留鸟种五折平均 R² | 0.1084895729 |
 
-原始文件按 SHA-256 核对；分类标签必须完全一致；数值比较使用 `rtol=1e-9, atol=1e-8`，容许浮点求和末位差异。模型二进制、图表字体或像素不作为重训一致性的判据。支持范围和实际运行记录见 [复现验证记录](docs/REPRODUCIBILITY.md)。本地已验证并不等于 GitHub Actions 已运行，上传后应检查 Actions 状态。
+原始文件按 SHA-256 核对；分类标签必须完全一致；数值比较使用 `rtol=1e-9, atol=1e-8`，容许浮点求和末位差异。模型二进制、图表字体或像素不作为重训一致性的判据。支持范围和实际运行记录见 [复现验证记录](docs/REPRODUCIBILITY.md)。程序版本已通过 [GitHub 独立 Windows 环境的完整特征重训](https://github.com/dissolve-listen/bird-ecology-image-analysis/actions/runs/35177741802)；后续提交的验证状态见页面顶部 Actions 标记。
 
 精度有限。官方训练测试包含相同鸟种，官方测试结果不代表未见鸟种泛化；按鸟种分组的组外验证只使用官方训练图像。真实类别仅用于关联监督标签；类别编号、文件名、预测类别、目标框及 IoU 不作为回归输入。CUB 官方目标框仅用于事后分割评价。
 
