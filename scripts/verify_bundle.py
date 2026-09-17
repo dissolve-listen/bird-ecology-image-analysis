@@ -39,10 +39,11 @@ def main() -> None:
     metadata = pd.read_csv(ROOT / "data/processed/cub_metadata.csv")
     validate_feature_cache(features, metadata)
     regression_data(features, pd.read_csv(ROOT / "data/processed/cub_avonet_traits.csv"))
-    if not args.inputs_only:
-        for name, expected in manifest["artifacts"].items():
+    for name, expected in manifest["artifacts"].items():
+        if not args.inputs_only or name.startswith("reference/"):
             if sha256_file(ROOT / name) != expected["sha256"]:
                 raise ValueError(f"提交模型/参考结果的校验值不一致: {name}")
+    if not args.inputs_only:
         from check_results import check_results
         check_results(ROOT, retrained=False)
     print(json.dumps({"passed": True, "images": len(features), "train": 5994,

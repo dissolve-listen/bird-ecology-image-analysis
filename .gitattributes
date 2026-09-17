@@ -8,8 +8,8 @@
 *.csv -text -whitespace
 *.json -text -whitespace
 *.lock -text
-data/source/cub_annotations/* -text -whitespace
 *.txt text eol=lf
+data/source/cub_annotations/* -text -whitespace
 .gitattributes text eol=lf
 .gitignore text eol=lf
 .python-version text eol=lf
