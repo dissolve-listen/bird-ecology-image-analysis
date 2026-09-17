@@ -1,0 +1,22 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+# Preserve exact data checksums across Windows/Linux clones.
+*.csv -text -whitespace
+*.json -text -whitespace
+*.lock -text
+data/source/cub_annotations/* -text -whitespace
+*.txt text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+.python-version text eol=lf
+*.joblib binary
+*.png binary
+*.jpg binary
+*.doc binary
+*.docx binary
+*.pptx binary
+*.pdf binary

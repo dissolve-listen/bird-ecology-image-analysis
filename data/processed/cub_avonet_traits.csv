@@ -1,0 +1,201 @@
+﻿class_id,鸟种,科学名,体重_g,跗蹠长度_mm,翅长_mm,尾长_mm,喙长_mm,喙宽_mm,喙深_mm,主要生活方式,主要食性,栖息地,分布范围_km2
+1,Black footed Albatross,Phoebastria nigripes,3188.4,87.4,476.0,136.0,101.2,23.8,30.8,Aquatic,Aquatic predator,Marine,84626560.97
+2,Laysan Albatross,Phoebastria immutabilis,3145.9,82.6,474.4,147.2,108.0,20.7,28.2,Aquatic,Aquatic predator,Marine,45350856.11
+3,Sooty Albatross,Phoebetria fusca,2553.7,76.2,510.2,268.8,108.9,17.6,29.8,Aquatic,Aquatic predator,Marine,61330907.01
+4,Groove billed Ani,Crotophaga sulcirostris,82.0,33.8,129.3,162.7,26.9,9.5,16.5,Terrestrial,Invertivore,Human Modified,2696933.46
+5,Crested Auklet,Aethia cristatella,259.4,27.4,139.4,38.0,21.1,6.1,10.9,Aquatic,Aquatic predator,Marine,479141.29
+6,Least Auklet,Aethia pusilla,84.0,19.0,94.4,27.0,15.0,5.0,6.4,Aquatic,Aquatic predator,Marine,65157.07
+7,Parakeet Auklet,Aethia psittacula,270.0,29.4,146.2,39.0,20.1,6.2,12.6,Aquatic,Aquatic predator,Marine,400570.42
+8,Rhinoceros Auklet,Cerorhinca monocerata,482.2,29.4,178.8,51.2,48.5,8.5,17.6,Aquatic,Aquatic predator,Marine,316387.33
+9,Brewer Blackbird,Euphagus cyanocephalus,62.5,31.0,126.4,100.6,22.6,5.8,7.5,Terrestrial,Omnivore,Human Modified,5280448.27
+10,Red winged Blackbird,Agelaius phoeniceus,50.8,28.0,118.0,88.9,22.7,5.6,8.8,Generalist,Granivore,Wetland,13703226.95
+11,Rusty Blackbird,Euphagus carolinus,59.6,30.2,114.4,90.0,23.0,5.0,6.6,Terrestrial,Omnivore,Forest,7275943.03
+12,Yellow headed Blackbird,Xanthocephalus xanthocephalus,62.7,32.9,129.4,101.9,22.5,6.6,9.1,Terrestrial,Granivore,Wetland,4756494.14
+13,Bobolink,Dolichonyx oryzivorus,31.5,26.5,90.2,61.8,16.2,5.9,7.6,Generalist,Granivore,Grassland,3883605.76
+14,Indigo Bunting,Passerina cyanea,14.7,17.2,64.8,48.9,11.7,5.1,6.2,Terrestrial,Granivore,Shrubland,5700834.65
+15,Lazuli Bunting,Passerina amoena,15.5,16.8,70.4,54.2,11.8,4.8,6.1,Insessorial,Omnivore,Shrubland,2824052.43
+16,Painted Bunting,Passerina ciris,15.5,18.8,69.6,52.4,11.7,4.9,6.5,Terrestrial,Granivore,Shrubland,1410893.89
+17,Cardinal,Cardinalis cardinalis,42.6,24.5,93.5,101.8,17.6,9.3,12.3,Insessorial,Omnivore,Shrubland,5834572.06
+18,Spotted Catbird,Ailuroedus crassirostris,205.3,48.6,155.8,113.7,33.7,9.6,14.4,Insessorial,Omnivore,Forest,208835.98
+19,Gray Catbird,Dumetella carolinensis,35.3,27.4,90.7,90.3,19.2,4.0,4.8,Insessorial,Invertivore,Shrubland,6824562.12
+20,Yellow breasted Chat,Icteria virens,24.9,26.1,76.5,71.8,16.3,4.8,6.3,Insessorial,Invertivore,Forest,6188045.96
+21,Eastern Towhee,Pipilo erythrophthalmus,40.0,27.0,82.3,91.7,15.4,5.5,8.2,Generalist,Omnivore,Forest,3162018.06
+22,Chuck will Widow,Caprimulgus carolinensis,109.0,17.5,207.7,141.1,15.2,6.2,4.0,Aerial,Invertivore,Woodland,1808676.44
+23,Brandt Cormorant,Phalacrocorax penicillatus,2224.2,65.5,280.6,115.4,76.5,12.7,17.8,Aquatic,Aquatic predator,Marine,326313.7
+24,Red faced Cormorant,Phalacrocorax urile,2117.7,56.2,270.4,154.2,55.5,9.2,11.6,Aquatic,Aquatic predator,Marine,1348091.15
+25,Pelagic Cormorant,Phalacrocorax pelagicus,1844.0,53.6,254.4,137.4,51.9,8.4,10.0,Aquatic,Aquatic predator,Marine,1686730.58
+26,Bronzed Cowbird,Molothrus aeneus,62.6,29.1,108.0,77.0,22.2,6.1,9.7,Terrestrial,Granivore,Forest,2518193.73
+27,Shiny Cowbird,Molothrus bonariensis,41.5,25.5,109.9,82.7,19.7,6.5,8.3,Terrestrial,Invertivore,Woodland,13210499.69
+28,Brown Creeper,Certhia americana,8.1,14.2,63.6,63.3,16.2,2.0,2.8,Insessorial,Invertivore,Forest,6543644.5
+29,American Crow,Corvus brachyrhynchos,448.8,59.3,309.6,177.3,51.1,14.7,17.7,Terrestrial,Omnivore,Human Modified,11573830.54
+30,Fish Crow,Corvus ossifragus,284.6,47.1,276.7,157.1,43.3,13.8,14.8,Terrestrial,Omnivore,Coastal,970986.53
+31,Black billed Cuckoo,Coccyzus erythropthalmus,50.9,22.9,136.9,143.4,27.0,5.7,6.6,Insessorial,Invertivore,Forest,4944717.14
+32,Mangrove Cuckoo,Coccyzus minor,63.9,28.1,135.0,155.3,31.3,6.8,9.1,Insessorial,Invertivore,Woodland,1105292.18
+33,Yellow billed Cuckoo,Coccyzus americanus,64.0,24.5,143.4,146.3,29.2,7.0,8.2,Insessorial,Invertivore,Forest,5270361.03
+34,Gray crowned Rosy Finch,Leucosticte tephrocotis,37.8,19.6,105.5,69.8,12.9,6.4,8.1,Terrestrial,Omnivore,Grassland,2279904.65
+35,Purple Finch,Carpodacus purpureus,23.3,16.6,81.1,59.5,12.2,7.5,9.0,Insessorial,Omnivore,Forest,4534365.72
+36,Northern Flicker,Colaptes auratus,131.5,28.7,156.9,109.5,40.2,8.5,7.9,Generalist,Invertivore,Shrubland,15712040.85
+37,Acadian Flycatcher,Empidonax virescens,12.6,17.1,71.0,58.8,13.3,6.1,4.0,Insessorial,Invertivore,Forest,3006134.68
+38,Great Crested Flycatcher,Myiarchus crinitus,32.1,21.8,98.8,88.1,22.7,8.5,6.9,Insessorial,Invertivore,Woodland,5137539.15
+39,Least Flycatcher,Empidonax minimus,10.0,15.9,61.1,50.8,12.4,5.4,3.5,Insessorial,Invertivore,Forest,5753545.24
+40,Olive sided Flycatcher,Contopus cooperi,32.1,14.7,104.7,68.8,19.9,8.5,6.5,Insessorial,Invertivore,Forest,9652028.65
+41,Scissor tailed Flycatcher,Tyrannus forficatus,39.3,18.6,121.2,214.0,22.4,7.6,6.0,Insessorial,Invertivore,Human Modified,1445850.08
+42,Vermilion Flycatcher,Pyrocephalus rubinus,14.4,16.9,73.6,57.7,14.4,5.4,4.0,Insessorial,Invertivore,Woodland,8469498.61
+43,Yellow bellied Flycatcher,Empidonax flaviventris,11.8,17.2,66.9,52.6,12.9,5.7,3.7,Insessorial,Invertivore,Forest,5332665.34
+44,Frigatebird,Fregata magnificens,1490.5,28.9,642.0,439.8,121.9,25.8,22.5,Aerial,Aquatic predator,Marine,191468.89
+45,Northern Fulmar,Fulmarus glacialis,611.9,48.8,321.1,134.9,41.3,11.9,14.4,Aquatic,Aquatic predator,Marine,29451058.1
+46,Gadwall,Anas strepera,915.6,36.5,251.3,83.0,48.7,16.5,13.7,Aquatic,Herbivore aquatic,Wetland,18552362.65
+47,American Goldfinch,Carduelis tristis,12.8,13.5,69.8,48.3,11.5,4.3,6.3,Insessorial,Granivore,Forest,7802444.22
+48,European Goldfinch,Carduelis carduelis,16.0,14.7,77.4,48.6,15.4,5.5,7.2,Insessorial,Granivore,Woodland,15348675.33
+49,Boat tailed Grackle,Quiscalus major,151.2,42.8,155.0,141.4,38.5,6.9,10.5,Terrestrial,Omnivore,Wetland,202767.11
+50,Eared Grebe,Podiceps nigricollis,412.4,39.6,127.2,28.0,26.2,5.5,5.9,Aquatic,Aquatic predator,Wetland,16435591.3
+51,Horned Grebe,Podiceps auritus,453.0,42.9,137.8,33.2,30.2,4.7,7.1,Aquatic,Aquatic predator,Wetland,16211072.27
+52,Pied billed Grebe,Podilymbus podiceps,411.9,37.1,125.6,32.6,28.8,5.4,10.6,Aquatic,Aquatic predator,Wetland,21361785.48
+53,Western Grebe,Aechmophorus occidentalis,1137.0,71.7,184.5,29.8,73.2,6.6,10.2,Aquatic,Aquatic predator,Wetland,4866227.6
+54,Blue Grosbeak,Passerina caerulea,27.4,20.3,86.1,64.4,17.0,7.4,10.9,Generalist,Invertivore,Forest,5300267.2
+55,Evening Grosbeak,Coccothraustes vespertinus,57.3,21.4,109.8,67.2,22.7,10.5,14.5,Insessorial,Omnivore,Forest,3942604.88
+56,Pine Grosbeak,Pinicola enucleator,56.4,19.6,109.2,85.1,16.6,8.6,11.2,Insessorial,Omnivore,Forest,18396768.3
+57,Rose breasted Grosbeak,Pheucticus ludovicianus,42.0,21.6,101.3,74.6,18.6,8.8,11.8,Insessorial,Omnivore,Forest,3980871.24
+58,Pigeon Guillemot,Cepphus columba,530.0,32.0,173.4,46.4,36.5,6.1,9.9,Aquatic,Aquatic predator,Marine,1700815.29
+59,California Gull,Larus californicus,683.4,57.0,377.0,140.0,55.7,7.0,14.2,Terrestrial,Omnivore,Coastal,1997786.84
+60,Glaucous winged Gull,Larus glaucescens,1056.5,65.2,411.8,166.0,69.8,9.2,19.7,Generalist,Aquatic predator,Coastal,899194.26
+61,Heermann Gull,Larus heermanni,500.0,51.6,336.2,133.2,56.3,6.0,12.2,Aerial,Aquatic predator,Coastal,842438.69
+62,Herring Gull,Larus argentatus,1091.0,64.9,429.0,168.5,70.5,8.8,18.5,Generalist,Aquatic predator,Coastal,13888864.47
+63,Ivory Gull,Pagophila eburnea,550.0,38.7,333.4,137.0,45.1,6.6,11.6,Aerial,Aquatic predator,Marine,17367390.8
+64,Ring billed Gull,Larus delawarensis,516.3,51.2,366.0,133.2,48.1,6.2,13.0,Terrestrial,Omnivore,Coastal,5396423.36
+65,Slaty backed Gull,Larus schistisagus,1323.0,68.2,435.0,171.5,68.1,9.2,19.6,Generalist,Omnivore,Coastal,1114985.14
+66,Western Gull,Larus occidentalis,922.8,64.2,397.5,145.2,64.8,8.5,18.3,Generalist,Omnivore,Marine,91633.8
+67,Anna Hummingbird,Calypte anna,4.2,4.6,49.0,30.0,20.6,1.6,1.7,Aerial,Nectarivore,Woodland,493015.73
+68,Ruby throated Hummingbird,Archilochus colubris,3.1,3.4,40.7,24.3,20.7,1.8,1.9,Generalist,Nectarivore,Woodland,4936988.47
+69,Rufous Hummingbird,Selasphorus rufus,3.5,2.5,40.7,29.8,20.4,1.6,1.7,Aerial,Nectarivore,Forest,1526769.21
+70,Green Violetear,Colibri thalassinus,5.9,5.6,62.6,42.0,23.7,2.2,2.0,Aerial,Nectarivore,Forest,788433.25
+71,Long tailed Jaeger,Stercorarius longicaudus,287.9,40.7,301.7,245.5,32.9,5.4,9.2,Aerial,Aquatic predator,Marine,6233403.78
+72,Pomarine Jaeger,Stercorarius pomarinus,692.5,52.0,350.8,175.6,45.8,7.2,12.5,Aerial,Aquatic predator,Marine,3233984.08
+73,Blue Jay,Cyanocitta cristata,88.0,34.7,130.0,121.4,29.9,10.1,8.9,Terrestrial,Omnivore,Woodland,6665383.16
+74,Florida Jay,Aphelocoma coerulescens,77.1,37.8,116.7,140.5,30.0,9.1,9.1,Insessorial,Omnivore,Shrubland,6933.22
+75,Green Jay,Cyanocorax yncas,78.5,39.3,125.0,146.2,30.8,9.5,10.2,Insessorial,Omnivore,Forest,
+76,Dark eyed Junco,Junco hyemalis,19.5,21.1,75.2,63.8,11.6,4.5,5.3,Generalist,Granivore,Forest,10167654.77
+77,Tropical Kingbird,Tyrannus melancholicus,37.4,18.7,108.8,91.9,23.5,9.7,7.4,Insessorial,Invertivore,Human Modified,16505803.88
+78,Gray Kingbird,Tyrannus dominicensis,46.5,18.5,116.6,89.0,30.6,11.5,8.8,Insessorial,Omnivore,Forest,575526.35
+79,Belted Kingfisher,Megaceryle alcyon,148.0,12.5,158.8,94.3,58.6,9.5,13.4,Insessorial,Aquatic predator,Riverine,13996585.38
+80,Green Kingfisher,Chloroceryle americana,33.7,7.8,76.8,57.8,42.0,6.2,8.7,Insessorial,Aquatic predator,Riverine,16946715.06
+81,Pied Kingfisher,Ceryle rudis,84.4,11.0,136.2,75.7,64.2,9.1,11.6,Insessorial,Aquatic predator,Wetland,23875911.23
+82,Ringed Kingfisher,Megaceryle torquata,317.0,14.3,191.3,120.2,83.6,14.9,21.1,Insessorial,Aquatic predator,Riverine,16295521.19
+83,White breasted Kingfisher,Halcyon smyrnensis,91.4,15.1,116.9,79.2,60.8,14.0,14.7,Insessorial,Omnivore,Human Modified,7101906.95
+84,Red legged Kittiwake,Rissa brevirostris,377.0,30.0,299.8,112.8,38.2,5.2,10.8,Aerial,Aquatic predator,Marine,192125.06
+85,Horned Lark,Eremophila alpestris,33.3,23.5,108.1,71.4,13.9,4.2,5.0,Terrestrial,Omnivore,Grassland,35118904.89
+86,Pacific Loon,Gavia pacifica,2251.1,72.8,291.2,48.4,71.9,8.3,12.9,Aquatic,Aquatic predator,Wetland,5397186.87
+87,Mallard,Anas platyrhynchos,843.4,40.6,263.4,86.9,58.5,20.8,17.8,Aquatic,Herbivore aquatic,Wetland,39707247.47
+88,Western Meadowlark,Sturnella neglecta,100.1,35.0,117.0,71.6,33.8,6.1,7.5,Terrestrial,Invertivore,Grassland,6719237.68
+89,Hooded Merganser,Lophodytes cucullatus,613.8,29.2,186.6,85.6,39.6,8.3,9.3,Aquatic,Aquatic predator,Wetland,5510396.5
+90,Red breasted Merganser,Mergus serrator,1015.2,45.5,233.6,76.2,65.0,8.2,10.6,Aquatic,Aquatic predator,Wetland,23632905.44
+91,Mockingbird,Mimus polyglottos,48.5,32.2,112.3,117.6,22.1,4.6,5.3,Generalist,Omnivore,Shrubland,10145517.51
+92,Nighthawk,Chordeiles minor,79.3,16.7,192.8,104.0,12.7,3.3,2.7,Aerial,Invertivore,Grassland,13037233.58
+93,Clark Nutcracker,Nucifraga columbiana,129.8,36.7,191.0,112.0,44.3,11.6,12.3,Insessorial,Omnivore,Forest,2287629.4
+94,White breasted Nuthatch,Sitta carolinensis,21.0,18.5,88.6,48.8,19.1,4.0,4.2,Insessorial,Omnivore,Forest,8811748.35
+95,Baltimore Oriole,Icterus galbula,32.8,23.4,92.1,73.3,21.1,5.0,6.4,Insessorial,Invertivore,Forest,4604558.64
+96,Hooded Oriole,Icterus cucullatus,24.3,21.6,83.4,91.4,21.2,4.3,5.2,Insessorial,Omnivore,Woodland,1181319.94
+97,Orchard Oriole,Icterus spurius,19.4,21.3,76.3,67.2,17.3,4.4,5.2,Insessorial,Invertivore,Forest,4816791.26
+98,Scott Oriole,Icterus parisorum,36.5,22.7,98.9,87.2,24.0,5.3,6.3,Insessorial,Invertivore,Shrubland,1741688.63
+99,Ovenbird,Seiurus aurocapilla,18.8,22.3,73.2,50.4,15.1,3.6,4.1,Terrestrial,Invertivore,Forest,5222797.22
+100,Brown Pelican,Pelecanus occidentalis,3427.8,71.7,494.6,128.2,319.5,38.8,43.4,Aerial,Aquatic predator,Marine,1823742.36
+101,White Pelican,Pelecanus onocrotalus,9322.3,128.5,646.4,160.8,359.0,54.4,49.1,Aquatic,Aquatic predator,Wetland,810182.64
+102,Western Wood Pewee,Contopus sordidulus,13.1,13.8,82.6,60.2,16.4,6.4,4.1,Insessorial,Invertivore,Forest,6939803.44
+103,Sayornis,Sayornis phoebe,19.7,17.7,83.9,70.1,17.4,5.5,4.1,Insessorial,Invertivore,Forest,6246276.45
+104,American Pipit,Anthus rubescens,20.7,21.2,85.0,67.6,14.5,3.1,3.1,Terrestrial,Invertivore,Grassland,12413847.38
+105,Whip poor Will,Caprimulgus vociferus,53.3,16.0,157.2,112.8,19.9,4.2,2.9,Generalist,Invertivore,Forest,4417326.01
+106,Horned Puffin,Fratercula corniculata,536.1,32.1,185.5,63.3,51.0,7.3,31.6,Aquatic,Aquatic predator,Marine,1467964.71
+107,Common Raven,Corvus corax,928.0,67.1,419.7,228.7,77.0,21.9,27.9,Terrestrial,Omnivore,Forest,52288449.5
+108,White necked Raven,Corvus albicollis,894.0,75.2,417.1,165.6,65.9,19.6,34.0,Terrestrial,Omnivore,Rock,1615598.28
+109,American Redstart,Setophaga ruticilla,8.2,17.0,62.0,52.6,12.3,4.0,3.0,Insessorial,Invertivore,Forest,6675504.95
+110,Geococcyx,Geococcyx californianus,376.0,59.5,181.0,287.4,57.8,10.1,12.5,Terrestrial,Invertivore,Shrubland,3008009.53
+111,Loggerhead Shrike,Lanius ludovicianus,51.6,27.7,96.4,96.7,21.1,6.5,8.8,Insessorial,Invertivore,Shrubland,8852504.29
+112,Great Grey Shrike,Lanius excubitor,63.4,29.4,109.2,106.2,23.2,6.9,9.3,Insessorial,Vertivore,Shrubland,35088491.93
+113,Baird Sparrow,Ammodramus bairdii,18.1,22.6,65.6,42.6,11.8,4.8,5.1,Generalist,Granivore,Grassland,830096.01
+114,Black throated Sparrow,Amphispiza bilineata,13.5,18.1,63.5,64.8,11.7,4.6,5.9,Generalist,Omnivore,Shrubland,2450691.64
+115,Brewer Sparrow,Spizella breweri,10.9,16.8,62.8,57.3,12.3,3.6,4.4,Generalist,Omnivore,Shrubland,3238311.53
+116,Chipping Sparrow,Spizella passerina,12.2,16.3,68.0,56.0,13.1,4.0,4.9,Generalist,Omnivore,Forest,13081064.54
+117,Clay colored Sparrow,Spizella pallida,11.2,17.4,60.8,56.8,10.1,3.4,4.9,Generalist,Granivore,Shrubland,3219955.48
+118,House Sparrow,Passer domesticus,26.5,18.4,75.7,56.8,14.0,6.6,7.7,Terrestrial,Granivore,Human Modified,34661699.72
+119,Field Sparrow,Spizella pusilla,12.5,17.9,64.4,62.0,10.4,4.3,5.2,Generalist,Granivore,Grassland,3997616.97
+120,Fox Sparrow,Passerella iliaca,33.3,24.1,83.7,71.3,13.5,5.3,7.4,Generalist,Omnivore,Forest,7385410.19
+121,Grasshopper Sparrow,Ammodramus savannarum,17.6,20.1,58.2,41.4,13.8,4.5,6.1,Generalist,Invertivore,Grassland,5240941.22
+122,Harris Sparrow,Zonotrichia querula,35.5,24.3,86.9,80.9,16.0,5.1,7.5,Terrestrial,Omnivore,Shrubland,1699160.3
+123,Henslow Sparrow,Ammodramus henslowii,12.8,16.7,54.7,49.9,13.6,4.4,6.8,Generalist,Omnivore,Grassland,1306487.74
+124,Le Conte Sparrow,Ammodramus leconteii,13.0,17.3,53.0,52.0,11.2,4.2,5.0,Generalist,Granivore,Grassland,2867567.84
+125,Lincoln Sparrow,Melospiza lincolnii,16.6,20.1,64.0,56.8,13.2,4.0,5.1,Generalist,Omnivore,Wetland,7567216.93
+126,Nelson Sharp tailed Sparrow,Ammodramus nelsoni,15.1,21.7,56.4,47.7,14.4,3.8,5.2,Generalist,Invertivore,Wetland,2592907.6
+127,Savannah Sparrow,Passerculus sandwichensis,20.0,20.7,72.8,51.2,12.8,4.1,5.4,Generalist,Omnivore,Grassland,13886974.46
+128,Seaside Sparrow,Ammodramus maritimus,22.2,22.9,60.6,54.8,16.3,4.2,6.3,Terrestrial,Invertivore,Wetland,184267.84
+129,Song Sparrow,Melospiza melodia,21.9,21.5,66.3,67.2,13.4,5.3,6.7,Generalist,Omnivore,Shrubland,10313728.38
+130,Tree Sparrow,Passer montanus,21.4,16.4,67.9,51.0,13.2,5.5,6.5,Terrestrial,Granivore,Woodland,39069801.39
+131,Vesper Sparrow,Pooecetes gramineus,25.7,20.1,78.6,59.6,12.0,4.9,6.6,Generalist,Omnivore,Grassland,6371227.47
+132,White crowned Sparrow,Zonotrichia leucophrys,28.0,22.8,78.7,70.6,15.4,4.5,6.0,Generalist,Omnivore,Shrubland,7364178.61
+133,White throated Sparrow,Zonotrichia albicollis,24.4,23.0,72.8,70.4,13.6,5.1,6.3,Terrestrial,Omnivore,Woodland,5662700.85
+134,Cape Glossy Starling,Lamprotornis nitens,85.6,31.9,118.3,79.8,22.4,5.2,6.4,Insessorial,Omnivore,Grassland,3006322.47
+135,Bank Swallow,Riparia riparia,12.7,10.6,101.2,48.3,9.3,3.5,2.3,Aerial,Invertivore,Riverine,42348582.97
+136,Barn Swallow,Hirundo rustica,17.9,11.7,115.8,71.4,12.4,4.5,2.7,Aerial,Invertivore,Human Modified,51701054.06
+137,Cliff Swallow,Petrochelidon pyrrhonota,21.6,12.6,109.3,49.2,11.3,4.5,3.0,Aerial,Invertivore,Grassland,11994340.08
+138,Tree Swallow,Tachycineta bicolor,21.2,12.2,115.9,54.0,10.8,3.8,2.8,Aerial,Invertivore,Wetland,11720977.55
+139,Scarlet Tanager,Piranga olivacea,28.2,19.4,92.6,63.8,18.8,7.2,8.2,Insessorial,Invertivore,Forest,2605301.09
+140,Summer Tanager,Piranga rubra,29.1,19.5,92.0,71.3,19.2,8.4,9.0,Insessorial,Invertivore,Forest,3269576.69
+141,Artic Tern,Sterna paradisaea,110.0,16.1,262.7,179.6,37.8,3.8,7.0,Aerial,Aquatic predator,Coastal,10398468.44
+142,Black Tern,Chlidonias niger,65.3,15.8,201.7,77.8,31.1,3.5,5.4,Aerial,Aquatic predator,Wetland,12943719.56
+143,Caspian Tern,Sterna caspia,655.0,42.6,410.7,148.7,78.7,10.4,19.2,Aerial,Aquatic predator,Wetland,6293644.91
+144,Common Tern,Sterna hirundo,129.2,19.5,253.3,129.8,44.5,3.8,7.0,Aerial,Aquatic predator,Marine,30248469.5
+145,Elegant Tern,Sterna elegans,260.0,28.2,296.6,126.6,64.4,5.8,10.3,Aerial,Aquatic predator,Coastal,1309.31
+146,Forsters Tern,Sterna forsteri,149.0,24.3,252.6,131.4,45.3,4.9,8.8,Aerial,Aquatic predator,Wetland,1801878.95
+147,Least Tern,Sterna antillarum,45.9,14.6,165.1,77.8,29.5,3.1,5.6,Aerial,Aquatic predator,Marine,1340830.63
+148,Green tailed Towhee,Pipilo chlorurus,29.4,24.1,77.6,87.6,15.1,4.7,6.9,Generalist,Omnivore,Shrubland,1737517.52
+149,Brown Thrasher,Toxostoma rufum,68.8,34.2,102.5,121.8,30.1,5.4,6.3,Generalist,Omnivore,Shrubland,5678627.88
+150,Sage Thrasher,Oreoscoptes montanus,44.2,29.4,97.7,96.0,20.8,4.4,5.3,Terrestrial,Invertivore,Shrubland,1992131.03
+151,Black capped Vireo,Vireo atricapilla,9.0,19.8,54.8,42.9,13.1,3.7,3.3,Insessorial,Invertivore,Shrubland,315128.21
+152,Blue headed Vireo,Vireo solitarius,15.3,18.6,75.3,51.4,13.7,4.0,4.4,Insessorial,Invertivore,Forest,3329804.9
+153,Philadelphia Vireo,Vireo philadelphicus,11.5,17.0,66.2,47.1,13.2,3.4,3.5,Insessorial,Invertivore,Woodland,2750346.28
+154,Red eyed Vireo,Vireo olivaceus,16.1,18.8,72.8,51.8,15.1,4.4,4.4,Insessorial,Invertivore,Forest,22981311.76
+155,Warbling Vireo,Vireo gilvus,12.7,17.6,70.1,51.3,14.3,3.7,3.7,Insessorial,Invertivore,Forest,9680437.56
+156,White eyed Vireo,Vireo griseus,11.4,19.5,61.6,48.9,13.7,3.9,4.1,Insessorial,Invertivore,Shrubland,3034548.86
+157,Yellow throated Vireo,Vireo flavifrons,18.0,19.3,76.3,48.4,15.1,4.3,4.9,Insessorial,Invertivore,Forest,3167329.54
+158,Bay breasted Warbler,Dendroica castanea,11.8,19.1,69.9,51.6,13.5,3.8,3.8,Insessorial,Invertivore,Forest,2650066.12
+159,Black and white Warbler,Mniotilta varia,10.9,17.3,68.8,46.6,13.7,2.9,3.3,Insessorial,Invertivore,Forest,5385503.08
+160,Black throated Blue Warbler,Dendroica caerulescens,10.1,18.6,62.2,48.9,13.0,3.4,3.3,Insessorial,Invertivore,Forest,1168234.94
+161,Blue winged Warbler,Vermivora pinus,8.9,16.3,58.3,42.5,13.0,3.0,3.3,Insessorial,Invertivore,Shrubland,1491745.35
+162,Canada Warbler,Wilsonia canadensis,10.0,19.2,62.5,52.7,13.0,4.0,3.6,Insessorial,Invertivore,Forest,2768373.43
+163,Cape May Warbler,Dendroica tigrina,10.0,17.5,65.7,45.2,12.6,3.2,3.3,Insessorial,Invertivore,Forest,2530023.76
+164,Cerulean Warbler,Dendroica cerulea,9.0,15.5,65.6,42.3,14.3,3.2,3.3,Insessorial,Invertivore,Forest,1849163.51
+165,Chestnut sided Warbler,Dendroica pensylvanica,9.3,18.7,61.6,46.2,13.4,3.6,3.6,Insessorial,Invertivore,Forest,2422614.2
+166,Golden winged Warbler,Vermivora chrysoptera,8.7,17.9,60.6,44.9,14.6,3.2,3.5,Insessorial,Invertivore,Shrubland,946202.7
+167,Hooded Warbler,Wilsonia citrina,10.5,19.2,64.7,55.1,13.7,3.8,3.6,Insessorial,Invertivore,Forest,2007300.04
+168,Kentucky Warbler,Oporornis formosus,14.0,22.8,66.9,48.1,13.8,3.5,3.7,Generalist,Invertivore,Forest,1970256.38
+169,Magnolia Warbler,Dendroica magnolia,8.1,18.2,58.4,46.5,12.1,3.1,3.1,Insessorial,Invertivore,Forest,3661483.1
+170,Mourning Warbler,Oporornis philadelphia,11.7,22.1,59.0,47.8,12.5,3.3,3.6,Insessorial,Invertivore,Forest,2709565.27
+171,Myrtle Warbler,Dendroica coronata,11.9,18.7,73.8,56.5,13.1,3.3,3.4,Insessorial,Invertivore,Forest,9938581.44
+172,Nashville Warbler,Vermivora ruficapilla,8.1,16.1,56.8,42.4,11.6,2.8,3.5,Insessorial,Invertivore,Forest,2772463.48
+173,Orange crowned Warbler,Vermivora celata,9.2,18.4,59.9,46.5,11.8,3.8,4.0,Insessorial,Invertivore,Shrubland,7482895.14
+174,Palm Warbler,Dendroica palmarum,10.3,19.1,63.7,51.0,12.9,2.8,3.1,Insessorial,Invertivore,Forest,3394685.27
+175,Pine Warbler,Dendroica pinus,11.8,18.6,71.8,54.0,13.4,3.1,3.8,Insessorial,Invertivore,Forest,2073441.98
+176,Prairie Warbler,Dendroica discolor,7.6,17.7,55.5,48.4,11.8,2.8,2.9,Insessorial,Invertivore,Shrubland,1565603.51
+177,Prothonotary Warbler,Protonotaria citrea,14.3,18.3,68.9,42.7,17.1,3.8,3.9,Insessorial,Invertivore,Forest,2173071.74
+178,Swainson Warbler,Limnothlypis swainsonii,18.9,17.7,71.6,49.6,17.8,3.4,4.3,Terrestrial,Invertivore,Shrubland,1142671.96
+179,Tennessee Warbler,Vermivora peregrina,8.9,18.3,62.5,42.1,10.9,3.1,3.2,Insessorial,Invertivore,Forest,4777801.14
+180,Wilson Warbler,Wilsonia pusilla,7.0,17.9,56.3,48.1,11.6,3.2,3.1,Insessorial,Invertivore,Forest,7961357.24
+181,Worm eating Warbler,Helmitheros vermivorum,14.2,17.7,68.3,48.4,15.3,3.7,4.5,Insessorial,Invertivore,Forest,1754178.4
+182,Yellow Warbler,Dendroica petechia,10.2,18.4,60.7,44.4,13.8,3.2,3.4,Insessorial,Invertivore,Shrubland,
+183,Northern Waterthrush,Seiurus noveboracensis,16.3,23.0,73.9,49.9,18.8,3.5,3.7,Terrestrial,Invertivore,Shrubland,7602956.72
+184,Louisiana Waterthrush,Seiurus motacilla,19.9,22.3,79.8,49.0,17.1,4.2,4.5,Terrestrial,Invertivore,Forest,2411690.61
+185,Bohemian Waxwing,Bombycilla garrulus,54.4,20.7,116.2,65.8,15.5,5.1,6.0,Insessorial,Omnivore,Forest,12792145.0
+186,Cedar Waxwing,Bombycilla cedrorum,31.6,16.7,95.4,59.8,15.1,4.5,4.9,Insessorial,Frugivore,Woodland,7437954.14
+187,American Three toed Woodpecker,Picoides dorsalis,55.1,19.3,118.2,77.8,26.9,8.6,6.8,Insessorial,Invertivore,Forest,7897211.06
+188,Pileated Woodpecker,Dryocopus pileatus,286.6,29.3,228.4,167.3,52.1,14.6,11.9,Insessorial,Invertivore,Forest,5925872.32
+189,Red bellied Woodpecker,Melanerpes carolinus,69.5,21.1,127.2,76.8,32.6,7.1,7.6,Insessorial,Omnivore,Woodland,3074161.82
+190,Red cockaded Woodpecker,Picoides borealis,48.0,21.1,117.0,85.0,18.2,6.8,6.1,Insessorial,Invertivore,Forest,603894.41
+191,Red headed Woodpecker,Melanerpes erythrocephalus,71.6,20.6,139.7,83.3,27.3,7.6,7.4,Insessorial,Invertivore,Forest,5461683.2
+192,Downy Woodpecker,Picoides pubescens,25.6,15.8,91.3,58.6,17.4,4.9,4.8,Insessorial,Invertivore,Woodland,12800223.82
+193,Bewick Wren,Thryomanes bewickii,9.9,17.5,54.0,51.2,15.5,2.6,3.0,Generalist,Invertivore,Shrubland,3360146.45
+194,Cactus Wren,Campylorhynchus brunneicapillus,38.9,26.2,83.2,86.4,26.1,4.0,5.7,Insessorial,Invertivore,Shrubland,1847263.76
+195,Carolina Wren,Thryothorus ludovicianus,19.0,21.4,59.4,50.7,16.9,3.2,3.9,Insessorial,Invertivore,Woodland,3217727.29
+196,House Wren,Troglodytes aedon,10.9,20.1,51.4,41.1,15.9,3.0,3.1,Insessorial,Invertivore,Shrubland,25654371.8
+197,Marsh Wren,Cistothorus palustris,10.8,19.2,48.4,39.5,16.0,2.7,3.4,Insessorial,Invertivore,Wetland,4855077.99
+198,Rock Wren,Salpinctes obsoletus,16.4,20.1,69.0,55.6,19.9,2.9,3.4,Terrestrial,Invertivore,Rock,5424173.4
+199,Winter Wren,Troglodytes troglodytes,9.7,17.7,47.7,29.9,13.4,2.4,2.6,Insessorial,Invertivore,Forest,20939529.72
+200,Common Yellowthroat,Geothlypis trichas,9.5,20.2,54.7,49.4,12.7,3.0,3.3,Insessorial,Invertivore,Wetland,12826786.25

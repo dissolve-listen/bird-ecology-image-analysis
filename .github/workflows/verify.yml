@@ -1,0 +1,44 @@
+name: Verify reproducibility
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: windows-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13.9'
+          cache: pip
+          cache-dependency-path: requirements.lock
+      - name: Install exact dependencies
+        run: |
+          python -m pip install -r requirements.lock
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+          python -m pip check
+      - name: Verify data and all test predictions
+        run: python -X utf8 scripts/verify_bundle.py
+      - name: Core image processing tests
+        run: python -X utf8 tests/test_core.py
+      - name: Regression and portability tests
+        run: python -X utf8 -m unittest discover -s tests -v
+      - name: GUI and image inference smoke check
+        run: python -X utf8 scripts/smoke_gui.py
+      - name: Retrain all models and validate results
+        if: github.event_name == 'workflow_dispatch'
+        run: python -X utf8 scripts/reproduce.py --mode cached
+      - name: Save verification evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: verification-evidence
+          path: |
+            reproduced/*.log
+            reproduced/verification.json
+            build/gui-smoke.png
+            build/gui-smoke.json

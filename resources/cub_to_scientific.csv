@@ -1,0 +1,201 @@
+﻿class_id,display_name,scientific_name
+1,Black footed Albatross,Phoebastria nigripes
+2,Laysan Albatross,Phoebastria immutabilis
+3,Sooty Albatross,Phoebetria fusca
+4,Groove billed Ani,Crotophaga sulcirostris
+5,Crested Auklet,Aethia cristatella
+6,Least Auklet,Aethia pusilla
+7,Parakeet Auklet,Aethia psittacula
+8,Rhinoceros Auklet,Cerorhinca monocerata
+9,Brewer Blackbird,Euphagus cyanocephalus
+10,Red winged Blackbird,Agelaius phoeniceus
+11,Rusty Blackbird,Euphagus carolinus
+12,Yellow headed Blackbird,Xanthocephalus xanthocephalus
+13,Bobolink,Dolichonyx oryzivorus
+14,Indigo Bunting,Passerina cyanea
+15,Lazuli Bunting,Passerina amoena
+16,Painted Bunting,Passerina ciris
+17,Cardinal,Cardinalis cardinalis
+18,Spotted Catbird,Ailuroedus crassirostris
+19,Gray Catbird,Dumetella carolinensis
+20,Yellow breasted Chat,Icteria virens
+21,Eastern Towhee,Pipilo erythrophthalmus
+22,Chuck will Widow,Caprimulgus carolinensis
+23,Brandt Cormorant,Phalacrocorax penicillatus
+24,Red faced Cormorant,Phalacrocorax urile
+25,Pelagic Cormorant,Phalacrocorax pelagicus
+26,Bronzed Cowbird,Molothrus aeneus
+27,Shiny Cowbird,Molothrus bonariensis
+28,Brown Creeper,Certhia americana
+29,American Crow,Corvus brachyrhynchos
+30,Fish Crow,Corvus ossifragus
+31,Black billed Cuckoo,Coccyzus erythropthalmus
+32,Mangrove Cuckoo,Coccyzus minor
+33,Yellow billed Cuckoo,Coccyzus americanus
+34,Gray crowned Rosy Finch,Leucosticte tephrocotis
+35,Purple Finch,Carpodacus purpureus
+36,Northern Flicker,Colaptes auratus
+37,Acadian Flycatcher,Empidonax virescens
+38,Great Crested Flycatcher,Myiarchus crinitus
+39,Least Flycatcher,Empidonax minimus
+40,Olive sided Flycatcher,Contopus cooperi
+41,Scissor tailed Flycatcher,Tyrannus forficatus
+42,Vermilion Flycatcher,Pyrocephalus rubinus
+43,Yellow bellied Flycatcher,Empidonax flaviventris
+44,Frigatebird,Fregata magnificens
+45,Northern Fulmar,Fulmarus glacialis
+46,Gadwall,Anas strepera
+47,American Goldfinch,Carduelis tristis
+48,European Goldfinch,Carduelis carduelis
+49,Boat tailed Grackle,Quiscalus major
+50,Eared Grebe,Podiceps nigricollis
+51,Horned Grebe,Podiceps auritus
+52,Pied billed Grebe,Podilymbus podiceps
+53,Western Grebe,Aechmophorus occidentalis
+54,Blue Grosbeak,Passerina caerulea
+55,Evening Grosbeak,Coccothraustes vespertinus
+56,Pine Grosbeak,Pinicola enucleator
+57,Rose breasted Grosbeak,Pheucticus ludovicianus
+58,Pigeon Guillemot,Cepphus columba
+59,California Gull,Larus californicus
+60,Glaucous winged Gull,Larus glaucescens
+61,Heermann Gull,Larus heermanni
+62,Herring Gull,Larus argentatus
+63,Ivory Gull,Pagophila eburnea
+64,Ring billed Gull,Larus delawarensis
+65,Slaty backed Gull,Larus schistisagus
+66,Western Gull,Larus occidentalis
+67,Anna Hummingbird,Calypte anna
+68,Ruby throated Hummingbird,Archilochus colubris
+69,Rufous Hummingbird,Selasphorus rufus
+70,Green Violetear,Colibri thalassinus
+71,Long tailed Jaeger,Stercorarius longicaudus
+72,Pomarine Jaeger,Stercorarius pomarinus
+73,Blue Jay,Cyanocitta cristata
+74,Florida Jay,Aphelocoma coerulescens
+75,Green Jay,Cyanocorax yncas
+76,Dark eyed Junco,Junco hyemalis
+77,Tropical Kingbird,Tyrannus melancholicus
+78,Gray Kingbird,Tyrannus dominicensis
+79,Belted Kingfisher,Megaceryle alcyon
+80,Green Kingfisher,Chloroceryle americana
+81,Pied Kingfisher,Ceryle rudis
+82,Ringed Kingfisher,Megaceryle torquata
+83,White breasted Kingfisher,Halcyon smyrnensis
+84,Red legged Kittiwake,Rissa brevirostris
+85,Horned Lark,Eremophila alpestris
+86,Pacific Loon,Gavia pacifica
+87,Mallard,Anas platyrhynchos
+88,Western Meadowlark,Sturnella neglecta
+89,Hooded Merganser,Lophodytes cucullatus
+90,Red breasted Merganser,Mergus serrator
+91,Mockingbird,Mimus polyglottos
+92,Nighthawk,Chordeiles minor
+93,Clark Nutcracker,Nucifraga columbiana
+94,White breasted Nuthatch,Sitta carolinensis
+95,Baltimore Oriole,Icterus galbula
+96,Hooded Oriole,Icterus cucullatus
+97,Orchard Oriole,Icterus spurius
+98,Scott Oriole,Icterus parisorum
+99,Ovenbird,Seiurus aurocapilla
+100,Brown Pelican,Pelecanus occidentalis
+101,White Pelican,Pelecanus onocrotalus
+102,Western Wood Pewee,Contopus sordidulus
+103,Sayornis,Sayornis phoebe
+104,American Pipit,Anthus rubescens
+105,Whip poor Will,Caprimulgus vociferus
+106,Horned Puffin,Fratercula corniculata
+107,Common Raven,Corvus corax
+108,White necked Raven,Corvus albicollis
+109,American Redstart,Setophaga ruticilla
+110,Geococcyx,Geococcyx californianus
+111,Loggerhead Shrike,Lanius ludovicianus
+112,Great Grey Shrike,Lanius excubitor
+113,Baird Sparrow,Ammodramus bairdii
+114,Black throated Sparrow,Amphispiza bilineata
+115,Brewer Sparrow,Spizella breweri
+116,Chipping Sparrow,Spizella passerina
+117,Clay colored Sparrow,Spizella pallida
+118,House Sparrow,Passer domesticus
+119,Field Sparrow,Spizella pusilla
+120,Fox Sparrow,Passerella iliaca
+121,Grasshopper Sparrow,Ammodramus savannarum
+122,Harris Sparrow,Zonotrichia querula
+123,Henslow Sparrow,Ammodramus henslowii
+124,Le Conte Sparrow,Ammodramus leconteii
+125,Lincoln Sparrow,Melospiza lincolnii
+126,Nelson Sharp tailed Sparrow,Ammodramus nelsoni
+127,Savannah Sparrow,Passerculus sandwichensis
+128,Seaside Sparrow,Ammodramus maritimus
+129,Song Sparrow,Melospiza melodia
+130,Tree Sparrow,Passer montanus
+131,Vesper Sparrow,Pooecetes gramineus
+132,White crowned Sparrow,Zonotrichia leucophrys
+133,White throated Sparrow,Zonotrichia albicollis
+134,Cape Glossy Starling,Lamprotornis nitens
+135,Bank Swallow,Riparia riparia
+136,Barn Swallow,Hirundo rustica
+137,Cliff Swallow,Petrochelidon pyrrhonota
+138,Tree Swallow,Tachycineta bicolor
+139,Scarlet Tanager,Piranga olivacea
+140,Summer Tanager,Piranga rubra
+141,Artic Tern,Sterna paradisaea
+142,Black Tern,Chlidonias niger
+143,Caspian Tern,Sterna caspia
+144,Common Tern,Sterna hirundo
+145,Elegant Tern,Sterna elegans
+146,Forsters Tern,Sterna forsteri
+147,Least Tern,Sterna antillarum
+148,Green tailed Towhee,Pipilo chlorurus
+149,Brown Thrasher,Toxostoma rufum
+150,Sage Thrasher,Oreoscoptes montanus
+151,Black capped Vireo,Vireo atricapilla
+152,Blue headed Vireo,Vireo solitarius
+153,Philadelphia Vireo,Vireo philadelphicus
+154,Red eyed Vireo,Vireo olivaceus
+155,Warbling Vireo,Vireo gilvus
+156,White eyed Vireo,Vireo griseus
+157,Yellow throated Vireo,Vireo flavifrons
+158,Bay breasted Warbler,Dendroica castanea
+159,Black and white Warbler,Mniotilta varia
+160,Black throated Blue Warbler,Dendroica caerulescens
+161,Blue winged Warbler,Vermivora pinus
+162,Canada Warbler,Wilsonia canadensis
+163,Cape May Warbler,Dendroica tigrina
+164,Cerulean Warbler,Dendroica cerulea
+165,Chestnut sided Warbler,Dendroica pensylvanica
+166,Golden winged Warbler,Vermivora chrysoptera
+167,Hooded Warbler,Wilsonia citrina
+168,Kentucky Warbler,Oporornis formosus
+169,Magnolia Warbler,Dendroica magnolia
+170,Mourning Warbler,Oporornis philadelphia
+171,Myrtle Warbler,Dendroica coronata
+172,Nashville Warbler,Vermivora ruficapilla
+173,Orange crowned Warbler,Vermivora celata
+174,Palm Warbler,Dendroica palmarum
+175,Pine Warbler,Dendroica pinus
+176,Prairie Warbler,Dendroica discolor
+177,Prothonotary Warbler,Protonotaria citrea
+178,Swainson Warbler,Limnothlypis swainsonii
+179,Tennessee Warbler,Vermivora peregrina
+180,Wilson Warbler,Wilsonia pusilla
+181,Worm eating Warbler,Helmitheros vermivorum
+182,Yellow Warbler,Dendroica petechia
+183,Northern Waterthrush,Seiurus noveboracensis
+184,Louisiana Waterthrush,Seiurus motacilla
+185,Bohemian Waxwing,Bombycilla garrulus
+186,Cedar Waxwing,Bombycilla cedrorum
+187,American Three toed Woodpecker,Picoides dorsalis
+188,Pileated Woodpecker,Dryocopus pileatus
+189,Red bellied Woodpecker,Melanerpes carolinus
+190,Red cockaded Woodpecker,Picoides borealis
+191,Red headed Woodpecker,Melanerpes erythrocephalus
+192,Downy Woodpecker,Picoides pubescens
+193,Bewick Wren,Thryomanes bewickii
+194,Cactus Wren,Campylorhynchus brunneicapillus
+195,Carolina Wren,Thryothorus ludovicianus
+196,House Wren,Troglodytes aedon
+197,Marsh Wren,Cistothorus palustris
+198,Rock Wren,Salpinctes obsoletus
+199,Winter Wren,Troglodytes troglodytes
+200,Common Yellowthroat,Geothlypis trichas
