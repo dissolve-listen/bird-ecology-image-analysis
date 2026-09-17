@@ -88,7 +88,7 @@ python -X utf8 scripts/bootstrap.py
 | `models/` | 两个完整训练模型，均小于 GitHub 普通 Git 单文件限制 |
 | `results/`、`reference/` | 已提交结果与自动验证使用的固定参考 |
 | `docs/report/`、`docs/presentation/` | 正式课程报告、课堂 PPT、界面截图 |
-| `.github/workflows/verify.yml` | 上传后自动运行的安装、数据/模型、测试和界面检查 |
+| `.github/workflows/verify.yml` | 上传后自动安装、校验数据/模型、运行测试与界面检查、完整特征重训 |
 
 原始图像和虚拟环境不入 Git；仓库保留预处理数据和模型。CUB 原始下载有官方链接与精确哈希，不依赖作者电脑。数据引用及第三方材料说明见 [DATA_SOURCES.md](docs/DATA_SOURCES.md)。报告重建可另装 `requirements-report.txt` 后执行 `scripts/build_report.py`；报告排版不是模型复现的必要步骤。课堂 PPT 已提供成品，不依赖作者专用的演示生成环境。
 

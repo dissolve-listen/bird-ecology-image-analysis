@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "retrained": true,
+  "all_raw_image_features_recomputed": true,
+  "test_predictions_checked": 5794,
+  "oof_predictions_checked": 5994,
+  "feature_count": 68,
+  "regression_targets": 7,
+  "classification_top1": 0.0866413531239213,
+  "regression_mean_r2": 0.16518813663351453,
+  "grouped_mean_r2": 0.10848957291675886,
+  "relative_tolerance": 1e-09,
+  "absolute_tolerance": 1e-08,
+  "mode": "full",
+  "python": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:09:58) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26100-SP0",
+  "elapsed_seconds": 244.55,
+  "verified_at_utc": "2026-09-17T03:09:15.563693+00:00"
+}

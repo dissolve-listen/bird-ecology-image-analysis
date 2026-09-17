@@ -6,9 +6,9 @@
 2. 点击 Create repository，复制 HTTPS 地址，例如 `https://github.com/你的用户名/bird-ecology-image-analysis.git`。
 3. 在本目录打开 PowerShell，用 `git status` 查看本地仓库。如果尚未初始化，执行 `git init -b main`、`git add .`、`git commit -m "Prepare reproducible coursework submission"`。若已经有提交则不要重复初始化。
 4. 添加远端：`git remote add origin "刚复制的HTTPS地址"`。若已经有 origin，先用 `git remote -v` 核对，避免发往错误仓库。
-5. 执行 `git push -u origin main`。如果弹出 Git Credential Manager 的浏览器登录窗口，使用自己的 GitHub 账号完成登录。不要把账号密码或令牌写进脚本、远端 URL 或提交文件。
+5. 先执行 `python -X utf8 scripts/check_submission.py` 检查已提交版本是否完整、是否有超限文件，再执行 `git push -u origin main`。如果弹出 Git Credential Manager 的浏览器登录窗口，使用自己的 GitHub 账号完成登录。不要把账号密码或令牌写进脚本、远端 URL 或提交文件。
 6. 上传成功后刷新仓库，确认 `data/processed/image_features.csv`、两个 `models/*.joblib`、`requirements.lock` 和 `docs/` 都在。进入 Actions 查看 Verify reproducibility 工作流是否通过。
-7. 在 Actions 中用 Run workflow 手动运行完整的“从预处理特征重新训练”校验。工作流不会下载 1.15 GB 原图；从原图重建按 README 在本机运行。
+7. Actions 每次上传都会从完整预处理特征重新训练并核对结果。成功后可下载 `verification-evidence` 中的日志和验证 JSON；需要重试时可用 Run workflow。工作流不会下载 1.15 GB 原图，从原图重建按 README 在本机运行。
 8. 再从远端克隆一份到新目录，按 README 安装依赖并运行 `scripts/verify_bundle.py`。需要核对重训练时运行 `scripts/reproduce.py --mode cached`。
 
 两个模型已无损压缩，最大文件约 28.4 MiB。GitHub 网页单文件上传上限比普通 Git 小，所以请使用 Git 命令或 GitHub Desktop 提交整个仓库。当前包无需 Git LFS 或单独的 Release 模型附件。

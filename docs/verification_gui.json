@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "tabs": 5,
+  "metadata_rows": 11788,
+  "synthetic_image_regression_outputs": 7,
+  "scope": "界面初始化及推理流程检查；合成图不用于准确率评价"
+}
